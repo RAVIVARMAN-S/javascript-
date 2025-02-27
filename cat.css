@@ -1,0 +1,43 @@
+.bg-container{
+    background-color: #0b0b0b;
+}
+
+.bulb-image{
+    width: 150px;
+}
+
+.cat-image{
+    width: 300px;
+
+}
+
+.switch-board{
+    background-color: antiquewhite;
+    padding: 20px;
+    width: 250;
+    height: 150px;
+    margin: 15px;
+    border-radius: 5px;
+
+}
+
+.switch-status{
+    font-family: "Roboto";
+    color: black;
+    font-weight: 200;
+
+}
+
+.on-switch{
+    background-color: #ffffff;
+    color: #ffffff;
+    font-family: "Roboto";
+
+}
+
+.off-switch{
+    background-color:red;
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
